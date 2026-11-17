@@ -1,0 +1,6 @@
+{
+  "name": "SIMRES Kampus - Sistem Reservasi Fasilitas",
+  "description": "Sistem Informasi Reservasi Fasilitas Kampus (Aula & Mini Soccer) dilengkapi Anti Double-Booking, Midtrans Sandbox, WA Gateway, dan E-Voucher QR Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
